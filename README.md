@@ -3,4 +3,4 @@
 ```To be updated with more details```
 
 
-Created by ***Christian Lindner***
+Created by ***Christian A. Lindner***
